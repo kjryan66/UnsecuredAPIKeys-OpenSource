@@ -2,6 +2,7 @@
 
 A comprehensive platform for discovering, validating, and tracking unsecured API keys across various code repositories and platforms. This project serves educational and security awareness purposes by demonstrating how easily API keys can be exposed in public repositories.
 
+
 ## ⚠️ Educational Purpose Only
 
 This project is designed for educational and security awareness purposes. It demonstrates common security vulnerabilities in API key management. Please use responsibly and in accordance with applicable laws and regulations.
