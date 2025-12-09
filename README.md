@@ -4,6 +4,8 @@
 [![.NET 9](https://img.shields.io/badge/.NET-9.0-512BD4)](https://dotnet.microsoft.com/)
 [![License](https://img.shields.io/badge/License-Custom-blue)](LICENSE)
 
+
+## ⚠️ Educational Purpose Only
 > **Thank you to everyone who has starred this project!** Your support helps raise awareness about API key security and encourages responsible disclosure practices.
 
 > **Full Version Available:** [www.UnsecuredAPIKeys.com](https://www.UnsecuredAPIKeys.com)
