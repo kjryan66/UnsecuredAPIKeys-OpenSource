@@ -35,25 +35,28 @@ This tool is for **educational and security awareness purposes only**.
 
 ## Quick Start
 
-### 1. Clone & Build
+### 1. Download
 
+Download the latest release for your platform from [**Releases**](https://github.com/TSCarterJr/UnsecuredAPIKeys-OpenSource/releases):
+
+| Platform | File |
+|----------|------|
+| Windows | `unsecuredapikeys-win-x64.exe` |
+| Linux | `unsecuredapikeys-linux-x64` |
+
+**No .NET runtime required** - these are self-contained executables.
+
+### 2. Run
+
+**Windows:**
 ```bash
-git clone https://github.com/TSCarterJr/UnsecuredAPIKeys-OpenSource.git
-cd UnsecuredAPIKeys-OpenSource
-dotnet build
+.\unsecuredapikeys-win-x64.exe
 ```
 
-### 2. Run the Application
-
+**Linux:**
 ```bash
-cd UnsecuredAPIKeys.CLI
-dotnet run
-```
-
-Or use the compiled binary:
-
-```bash
-./bin/Debug/net10.0/unsecuredapikeys
+chmod +x unsecuredapikeys-linux-x64
+./unsecuredapikeys-linux-x64
 ```
 
 ### 3. Configure GitHub Token
@@ -69,6 +72,18 @@ Required scope: `public_repo`
 - **Start Verifier**: Maintains up to 50 valid keys (re-checks as needed)
 - **View Status**: Shows current statistics
 - **Export Keys**: Export to JSON or CSV
+
+### Building from Source (Optional)
+
+If you prefer to build from source:
+
+```bash
+git clone https://github.com/TSCarterJr/UnsecuredAPIKeys-OpenSource.git
+cd UnsecuredAPIKeys-OpenSource
+dotnet build
+cd UnsecuredAPIKeys.CLI
+dotnet run
+```
 
 ## How It Works
 
