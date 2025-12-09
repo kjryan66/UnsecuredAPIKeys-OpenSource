@@ -3,6 +3,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/TSCarterJr/UnsecuredAPIKeys-OpenSource?style=social)](https://github.com/TSCarterJr/UnsecuredAPIKeys-OpenSource)
 [![.NET 10](https://img.shields.io/badge/.NET-10.0-512BD4)](https://dotnet.microsoft.com/download/dotnet/10.0)
 [![License](https://img.shields.io/badge/License-Custom-blue)](LICENSE)
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/TSCarterJr/UnsecuredAPIKeys-OpenSource?utm_source=oss&utm_medium=github&utm_campaign=TSCarterJr%2FUnsecuredAPIKeys-OpenSource&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 
 > **Thank you to everyone who has starred this project!** Your support helps raise awareness about API key security and encourages responsible disclosure practices.
 
